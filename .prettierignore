@@ -1,0 +1,6 @@
+.next
+.docs
+pnpm-lock.yaml
+.docs
+node_modules
+LICENSE
